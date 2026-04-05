@@ -1,16 +1,34 @@
-## Hi there 👋
+# Simon Throm
+## Graduate FPGA Engineer · Low-Latency Systems
 
-<!--
-**simon-throm/simon-throm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue)
+![VHDL](https://img.shields.io/badge/VHDL-blue)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-red)
+![Zynq](https://img.shields.io/badge/Zynq_UltraScale+-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**  R&D Hardware Engineer @ ASML — 300 kHz PI control
+             loops for sub-nanometer lithography stages
+**Previously:** FPGA Engineer Intern @ ESA ESTEC — high-speed
+             data acquisition under Cobalt-60 irradiation
+**Education:**  MEng Electrical Engineering, INSA Lyon
+             Exchange semester, University of Sheffield
+
+## Active projects
+
+→ **[kv260-udp-parser](https://github.com/simon-throm/kv260-udp-parser)**
+  Ultra-low latency UDP/IP hardware parser in SystemVerilog
+  on AMD Kria KV260 (Zynq UltraScale+ MPSoC).
+  AXI4-Stream data paths · hardware timestamping · wire-to-wire
+  latency measurements
+
+## Stack
+
+HDL      : SystemVerilog · VHDL
+Tools    : Xilinx Vivado · ModelSim · Altium · Cadence
+SW       : C/C++ · Python · Matlab · Linux
+Protocols: AXI4-Stream · AXI-Lite · SPI · UDP/IP · Ethernet
+
+## Contact
+
+linkedin.com/in/simon-throm-39b481279  ·  simon.throm@insa-lyon.fr
