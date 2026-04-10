@@ -4,7 +4,7 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue) ![VHDL](https://img.shields.io/badge/VHDL-blue)
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-red) ![Zynq](https://img.shields.io/badge/Zynq_UltraScale+-red)
 
-- 🔧 **Currently:** R&D Hardware Engineer @ ASML — 300 kHz PI control loops for sub-nanometer lithography stages
+- 🔧 **Currently:** R&D Hardware Engineer @ ASML — analog PI-controlled power amplifier (200 kHz PWM, 18 kHz bandwidth) for high-reliability servo-mechanical control systems
 - 🛰️ **Previously:** FPGA Engineer Intern @ ESA ESTEC — high-speed data acquisition under Cobalt-60 irradiation
 - 🎓 **Education:** MEng Electrical Engineering, INSA Lyon · Exchange semester, University of Sheffield
 
